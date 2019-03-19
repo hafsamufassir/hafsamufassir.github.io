@@ -1,0 +1,96 @@
+.h3 {
+  color: black;
+  padding-left: 14%;
+  padding-top: 5%;
+  
+  font-size:60px;
+  
+}
+#heading{
+  text-align: center;
+  padding: 50px;
+}
+#about-us{
+  width: 100%;
+}
+
+
+
+
+    #logo {
+      margin-left: 35%;
+      margin-top: 30px;
+     
+   
+    }
+  
+  
+
+  
+   
+  
+   
+  p{
+    color:#ba6e0a;
+    font-size:70px;
+    font-family:Lucida Sans Unicode, Lucida Grande, sans-serif;
+    margin-top:5%;
+    margin-right: 7%;
+    float: left;
+    
+    
+  }
+  #link a{
+      text-decoration: none;
+      font-size:50px;
+      color:black;
+      
+      transition:1s transform;
+      margin-top:5%;
+    margin-left:22%;
+  
+    border: 3px solid #ba6e0a;
+   
+    padding: 7px;
+     margin-right: 7%;
+     float: left;
+  
+    }
+
+    #link a:hover{
+    
+      color:white;
+     
+      transform: rotate(25deg) scale(1.2);
+     
+      background: #ba6e0a;
+        border: 3px solid #ba6e0a;
+     
+    float: left;
+     
+      }
+  
+    #link2 a:hover{
+      
+      color:white;
+      transform: rotate(-25deg) scale(1.2);
+      background: #ba6e0a;
+      border: 3px solid #ba6e0a;
+      float: left;
+     
+      }
+  
+  #link2 a{
+      text-decoration: none;
+      font-size:50px;
+      color:black;
+      
+      transition:1s transform;
+      margin-top:5%;
+
+    
+    border: 3px solid #ba6e0a;
+   
+    padding: 7px;
+    float: left;
+    }
